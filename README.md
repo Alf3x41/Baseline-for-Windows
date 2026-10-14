@@ -1,4 +1,4 @@
-﻿# Baseline
+﻿# Baseline for Windows
 
 Desktopová aplikácia pre Windows 11 x64 v C# / WinUI 3. Skutočná inventarizácia WMI, kontrola runtime balíkov, oficiálne sťahovanie, overovanie podpisov a inštalácia kompatibilných ovládačov z Microsoft Update Catalog. Neobsahuje simulované výsledky.
 
